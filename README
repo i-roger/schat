@@ -1,0 +1,18 @@
+This is a TCP chat room! Communication via Sockets!
+
+-> Execute Server.py (TO LISTEN ALL THE CLIENTS OR USERS)
+via command: python server.py
+
+-> Execute client.py
+via command: python client.py
+
+OBSERVATION: For every instance of client we have differente users.
+
+-> HOW TO EXPORT THE PYTHON SCRIPT TO A .EXE PROGRAM
+via command: pip install auto-py-to-exe
+
+After that, select the configuration "RUN ON TERMINAL" and the option "ONE FILE".
+When finished, .exe archives are in "./OUTPUT" Directory
+
+Configure Special Name for when ip connect on server.py
+172.16.73.43
